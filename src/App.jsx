@@ -54,6 +54,7 @@ function App() {
 
   return (
     <div className="App">
+      <img src='/logo.png'/>
       <h1 id="page-header">Bem-vindo ao Tour</h1>
       <p id="top-nav">Este é um exemplo simples de como pode ser visualizado um tour na aplicação de um produto,
       <br></br> clique no botão abaixo para iniciar o tour pela aplicação.</p>

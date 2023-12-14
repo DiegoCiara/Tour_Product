@@ -83,30 +83,13 @@ button:focus-visible {
 .driver-popover.driverjs-theme .driver-popover-navigation-btns {
   gap: 3px;
 }
-/* 
-.driver-popover.driverjs-theme .driver-popover-close-btn {
-  color: #9b9b9b;
+
+img{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
 }
 
-.driver-popover.driverjs-theme .driver-popover-close-btn:hover {
-  color: #000;
-} */
-/* 
-.driver-popover.driverjs-theme .driver-popover-arrow-side-left.driver-popover-arrow {
-  border-left-color: #ffffff;
-}
-
-.driver-popover.driverjs-theme .driver-popover-arrow-side-right.driver-popover-arrow {
-  border-right-color: #ffffff;
-}
-
-.driver-popover.driverjs-theme .driver-popover-arrow-side-top.driver-popover-arrow {
-  border-top-color: #ffffff;
-}
-
-.driver-popover.driverjs-theme .driver-popover-arrow-side-bottom.driver-popover-arrow {
-  border-bottom-color: #ffffff;
-} */
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
